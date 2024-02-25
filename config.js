@@ -15,10 +15,10 @@ const _0x138100=_0x2ef9;(function(_0x11971a,_0x460754){const _0x419220=_0x2ef9,_
 
 
 
-global.autoTyping = false     //auto tying in gc (true to on, false to off)
+global.autoTyping = true     //auto tying in gc (true to on, false to off)
 global.autoreadpmngc = false  //auto reading in gc and pm (true to on, false to off)
 global.autoReadGc = false     //auto reading in gc (true to on, false to off)
-global.autoRecord = false     //auto recording (true to on, false to off)
+global.autoRecord = true     //auto recording (true to on, false to off)
 global.available = true       //auto available (true to on, false to off)
 
 
@@ -42,26 +42,26 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 
 
-global.vcardowner = ['447405935355'] //ur owner number
+global.vcardowner = ['923417680053'] //ur owner number
 
-global.ownername = '𝘼𝙇𝙄𝙀𝙉 𝘼𝙇𝙁𝘼' //ur owner name
+global.ownername = 'DEVELOPER' //ur owner name
 
-global.ytname = "YT: AlienAlfa" //ur yt chanel name
+global.ytname = "YT: hamzatech143" //ur yt chanel name
 
-global.socialm = "GitHub: Alien-Alfa" //ur github or insta name
+global.socialm = "GitHub: DEVELOPER" //ur github or insta name
 
 global.location = "UK, London, hertfordshire" //ur location
 
 
 
 
-global.owner = ['447405935355']
+global.owner = ['923417680053']
 
-global.ownertag = '447405935355' //ur tag number
+global.ownertag = '923417680053' //ur tag number
 
-global.botname = "𝒜𝓊𝓇𝑜𝓇𝒶 𝐵𝒪𝒯-𝑀𝒟" //ur bot name
+global.botname = "DEVELOPER 𝐵𝒪𝒯-𝑀𝒟" //ur bot name
 
-global.linkz = 'https://www.youtube.com/alienalfa' //your theme url which will be displayed on whatsapp
+global.linkz = 'https://www.youtube.com/hamzatech143' //your theme url which will be displayed on whatsapp
 
 global.websitex = 'https://www.GITHUB.com/alien-alfa' //ur website to be displayed
 
@@ -71,9 +71,9 @@ global.reactmoji = "😘" //ur menu react emoji
 
 global.themeemoji = "🐤" //ur theme emoji
 
-global.packname = '🐥 𝘼𝙇𝙄𝙀𝙉 𝘼𝙇𝙁𝘼-𝙈𝘿 \n😻 T\n🥰 E\n🤩\n🥹 A\n🥳 M\n😜 O\n😏\n😘 C\n🤪 A\n😳 R\n🫠 I\n🫡 N\n🥺 O\n' //ur sticker watermark packname
+global.packname = '🐥 DEVELOPER 𝘼𝙇𝙁𝘼-𝙈𝘿 \n😻 T\n🥰 E\n🤩\n🥹 A\n🥳 M\n😜 O\n😏\n😘 C\n🤪 A\n😳 R\n🫠 I\n🫡 N\n🥺 O\n' //ur sticker watermark packname
 
-global.author = '\n△   ᴀʟɪᴇɴᴀʟꜰᴀ\n▷   ꜱᴀꜰᴡᴀɴɢᴀɴᴢ\n◁   ᴀᴊᴍᴀʟ\n△   ɴᴇᴇʀᴀᴊ \n▷   xᴇᴏɴ ' //ur sticker watermark author
+global.author = '\n△   DEVELOPER\n▷   MARKETER\n◁  ROY\n△   KHARAL \n▷   BABY ' //ur sticker watermark author
 
 
 
@@ -91,7 +91,7 @@ global.thumbz = 'https://github.com/Alien-alfa/Alien-alfa/blob/beta/Alfa.jpg?raw
 
 
 
-global.premium = global.premiumzz || ['447405935355'] //ur premium numbers
+global.premium = global.premiumzz || ['923417680053'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
